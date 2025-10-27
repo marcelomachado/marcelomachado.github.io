@@ -18,7 +18,9 @@ Education
 
 Work experience
 ======
-* 2019 - now: Research Scientist
+* 2025 - now: Professor
+  * Federal University of Juiz de Fora
+* 2019 - 2025: Research Scientist
   * IBM Research
   <!-- * Duties includes: Updates and improvements to template -->
   <!-- * Supervisor: The Users -->
